@@ -63,7 +63,7 @@ weather-environmental-dashboard/
     └── weather_dashboard.pbix
 ```
 ## 📷 Dashboard Preview
-![Weather Report Dashboard](Weather-dashboard.png)
+![Weather Report Dashboard](Weather-Dashboard.png)
 
 ## 📈 Business Value
 This dashboard simplifies weather monitoring and environmental analysis by presenting key metrics and trends in an interactive format, supporting informed decisions about weather conditions and air quality.
